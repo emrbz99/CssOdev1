@@ -1,0 +1,22 @@
+.position-center {
+    text-align: center;
+    /* display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; */
+}
+.back-color {
+    background-color: chocolate;
+}
+.fnt-size30 {
+    font-size: 30px;
+}
+.fnt-size20 {
+    font-size: 20px;
+}
+.color {
+    color: whitesmoke;
+}
+.style-none {
+ list-style-type: none;
+}
